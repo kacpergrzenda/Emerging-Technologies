@@ -4,7 +4,7 @@
 * [About The Project](#about-the-project)
 * [Main Project Topics](#main-project-topics)
 * [Technologies Used](#technologies-used)
-* [Getting Started](#getting-started)
+* [How to use the Project](#how-to-use-the-project)
 * [Features](#features)
 * [Acknowledgements](#acknowledgements)
 
@@ -30,12 +30,19 @@ The ```quantum-deutsch.ipynb``` notebook demonstrates a clear concise comparison
 * Qiskit (Quantum Computing)
 
 
-## Getting Started
+## How to use the Project
+You can view the main project files by simply clicking on the badges below and load the information:
+<br>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kacpergrzenda/emerging-technologies/blob/main/quantum-deutsch.ipynb) ```quantum-deutsch.ipynb```
+<br>
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kacpergrzenda/emerging-technologies/blob/main/scikit-learn.ipynb) ```scikit-learn.ipynb```
+<br>
+ or you can view the files and edit the files just by following the steps below.
 
 1. Open a directory on your machine and in the command line of this directory Git Clone this GitHub repository.
 
     ```bash
-    $ git clone https://github.com/kacpergrzenda/emerging-technologies 
+    $ git clone <repo>  (e.g. https://github.com/kacpergrzenda/emerging-technologies)
     ```
 2. Build the Docker container.
     ```bash
